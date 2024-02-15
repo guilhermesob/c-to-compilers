@@ -1,5 +1,4 @@
-#include  </studio.h>
-//inteiros
+#include 
 
 int main() {
 char hello [] = "Hello World";
